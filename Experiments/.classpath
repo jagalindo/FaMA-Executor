@@ -7,5 +7,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/FaMaSDK"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/GlucoseReasoner"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/OpenWBOReasoner"/>
+	<classpathentry kind="lib" path="/Choco2Reasoner/resources/lib/choco-2.1.0-basic+old.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

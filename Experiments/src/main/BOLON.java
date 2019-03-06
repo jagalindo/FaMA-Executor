@@ -13,7 +13,7 @@ import es.us.isa.GlucoseReasoner.questions.GlucoseBOLONFMDIAGConfiguration;
 import es.us.isa.OpenWBOReasoner.OpenWBOReasoner;
 import es.us.isa.OpenWBOReasoner.questions.OpenWBOBOLONMAXSAT;
 
-public class Experiment {
+public class BOLON {
 
 	public static void main(String[] args) throws WrongFormatException {
 
